@@ -1,1 +1,1 @@
-
+This project analyzes electricity consumption, solar (PV) generation, and cost for Building 2 using the City Learn 2022 dataset. The goal is to understand how solar generation affects net energy use and electricity bill
